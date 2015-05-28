@@ -1,0 +1,41 @@
+{
+  "name": "zsh_history",
+  "version": "1.0.0",
+  "description": "zsh_history is a tool for fix zsh corrupt history issue. only use for mac && linux",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm publish .",
+    "test": "node index.js"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "zsh_history": "index.js"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "zsh",
+    "history",
+    "linux",
+    "mac"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i5ting/zsh_history.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5ting/zsh_history/issues"
+  },
+  "homepage": "https://github.com/i5ting/zsh_history",
+  "dependencies": {
+    "shelljs": "^0.4.0"
+  },
+  "maintainers": [
+    {
+      "name": "i5ting",
+      "email": "shiren1118@126.com"
+    }
+  ]
+}
