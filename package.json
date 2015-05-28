@@ -1,6 +1,6 @@
 {
   "name": "zsh_history",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "zsh_history is a tool for fix zsh corrupt history issue. only use for mac && linux",
   "main": "index.js",
   "scripts": {
